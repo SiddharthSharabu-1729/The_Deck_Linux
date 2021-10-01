@@ -28,6 +28,25 @@ It has an latest pre-installed hacking tools in The_Deck
 
 ![](/images/3.jpeg)
 
-#### **Custom Commands**
+### **Custom Commands**
 
 ![](/images/4.jpeg)
+
+
+### **Tools:**
+
+
+### SQLmap
+![](/images/1.jpeg)
+
+### Recon-ng Tool
+
+![](/images/2.jpeg)
+
+### Metasploit Framework
+
+![](/images/5.jpeg)
+
+### Custom Control command deckd
+
+![](/images/6.jpeg)
