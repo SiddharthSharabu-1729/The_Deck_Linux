@@ -30,7 +30,7 @@ Type `sudo info` to get all information about your board
 
 It has an latest pre-installed hacking tools in The_Deck
 
-![](/images/3.jpeg)
+![](../images/3.jpeg)
 
 ### **Custom Commands**
 
