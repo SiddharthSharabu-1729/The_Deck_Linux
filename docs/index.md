@@ -30,26 +30,26 @@ Type `sudo info` to get all information about your board
 
 It has an latest pre-installed hacking tools in The_Deck
 
-![](/images/3.jpeg)
+![](/..images/3.jpeg)
 
 ### **Custom Commands**
 
-![](/images/4.jpeg)
+![](../images/4.jpeg)
 
 ### **Tools:**
 
 ### SQLmap
 
-![](/images/1.jpeg)
+![](../images/1.jpeg)
 
 ### Recon-ng Tool
 
-![](/images/2.jpeg)
+![](../images/2.jpeg)
 
 ### Metasploit Framework
 
-![](/images/5.jpeg)
+![](../images/5.jpeg)
 
 ### Custom Control command deckd
 
-![](/images/6.jpeg)
+![](../images/6.jpeg)
