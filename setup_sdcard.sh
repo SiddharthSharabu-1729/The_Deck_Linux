@@ -96,6 +96,10 @@ tar xfvp The_Deck_Linux_v3.0.0.tar.gz
 
 cd The_Deck_Linux_v3.0.0
 
+clear
+
+logo
+
 PS3="select an option > "
 
 select opt in sdx mmcblkx quit ; do
